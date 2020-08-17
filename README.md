@@ -29,4 +29,4 @@ Creative ideas, startups, webshops, design agencies or basically anything in our
 
 <br>
 
--> ![ViewCount](https://views.whatilearened.today/views/github/Elyas-Popal/Elyas-Popal.svg?cache=remove) <-
+ ![ViewCount](https://views.whatilearened.today/views/github/Elyas-Popal/Elyas-Popal.svg?cache=remove)
