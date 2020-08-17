@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyaspopal/)
 [![Instagram Badge](https://img.shields.io/badge/IG-elyasium-ff69b4?style=for-the-badge&link=http://instagram.com/elyasium)](http://instagram.com/elyasium)
 
----
-
 _Welcome to my GitHub! I'm Elyas (with the stress on the Y), a developer from the Netherlands with with Persian roots and living in Spain. Being a person of many interests, I enjoy working within all spheres of activity. Through my skills gained from coding bootcamps such as in Ironhack Lisbon, self-studying, the dev community and professional experience, I am building a fluent sleight-of-hand in both frontend and backend technologies and languages. Because bringing ideas to life as efficient and accurate as possible is really the ultimate goal in life._
 
 **And what could be more effective in achieving that goal than coding?** 🤖
@@ -31,4 +29,4 @@ Creative ideas, startups, webshops, design agencies or basically anything in our
 
 <br>
 
-![ViewCount](https://views.whatilearened.today/views/github/Elyas-Popal/Elyas-Popal.svg?cache=remove)
+-> ![ViewCount](https://views.whatilearened.today/views/github/Elyas-Popal/Elyas-Popal.svg?cache=remove) <-
