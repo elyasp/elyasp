@@ -1,14 +1,11 @@
 ![](https://github.com/elyasp/elyasp/blob/master/banner.png)
-
 [![elyaspopal.com](https://img.shields.io/badge/-ELYASPOPAL.COM-3c226b?style=for-the-badge&logo=react&logoColor=white)](http://elyaspopal.com)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyas_popal)
 [![Hotmail](https://img.shields.io/badge/-HOTMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:elyasp@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyaspopal/)
 [![Instagram Badge](https://img.shields.io/badge/IG-elyasium-ff69b4?style=for-the-badge&link=http://instagram.com/elyasium)](http://instagram.com/elyasium)
 
-<em>
-Welcome to my GitHub! I'm Elyas (with the stress on the Y), a developer from the Netherlands with with Persian roots and living in Spain. Being a person of many interests, I enjoy working within all spheres of activity. Through my skills gained from coding bootcamps such as in Ironhack Lisbon, self-studying, the dev community and professional experience, I am building a fluent sleight-of-hand in both frontend and backend technologies and languages. Because bringing ideas to life as efficient and accurate as possible is really the ultimate goal in life.
-</em>
+_Welcome to my GitHub! I'm Elyas (with the stress on the Y), a developer from the Netherlands with with Persian roots and living in Spain. Being a person of many interests, I enjoy working within all spheres of activity. Through my skills gained from coding bootcamps such as in Ironhack Lisbon, self-studying, the dev community and professional experience, I am building a fluent sleight-of-hand in both frontend and backend technologies and languages. Because bringing ideas to life as efficient and accurate as possible is really the ultimate goal in life._
 
 **And what could be more effective in achieving that goal than coding?** 🤖
 
