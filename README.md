@@ -1,4 +1,4 @@
-![](./images/banner.png)
+![](https://github.com/elyasp/elyasp/blob/master/banner.png)
 ![ViewCount](https://views.whatilearened.today/views/github/Elyas-Popal/Elyas-Popal.svg?cache=remove)[![Website Badge](https://img.shields.io/badge/elyaspopal.com-%235d438a?style=flat-square&link=http://elyaspopal.com)](http://elyaspopal.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elyaspopal/)](https://www.linkedin.com/in/elyaspopal/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&https://t.me/elyas_popal)](https://t.me/elyas_popal)
