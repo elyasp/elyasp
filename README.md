@@ -11,7 +11,7 @@ Because bringing ideas to life as efficient and accurate as possible is really t
 
 _And what could be more effective in achieving that goal than coding?_ 🤖
 
-![Elyas's Github stats](https://github-readme-stats.vercel.app/api?username=elyasp&show_icons=true&hide_border=true&theme=material-palenight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyasp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Elyas's Github stats](https://github-readme-stats.vercel.app/api?username=elyasp&show_icons=true&hide_border=true&theme=material-palenight)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on
 
