@@ -19,8 +19,8 @@ My portfolio and other personal projects as well as interview projects.
 
 ### <img src="https://media.giphy.com/media/iIKrdvt54McJa/giphy.gif" width="30"> My current focus is on
 
-- Next.js and SEO improvisation
-- Rebass.js
+- Typescript
+- Next.js & SEO
 - GraphQL
 
 ### <img src="https://media.giphy.com/media/l2vStc1Yuw24g0xqKH/giphy.gif" width="30"> I’m looking to collaborate on/with
