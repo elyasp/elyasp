@@ -15,7 +15,7 @@ _Welcome to my GitHub! I'm Elyas (with the stress on the Y), a developer from th
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on
 
-My portfolio and other personal projects as well as interview projects.
+My portfolio and other freelance projects, also picking up new practises and tools
 
 ### <img src="https://media.giphy.com/media/iIKrdvt54McJa/giphy.gif" width="30"> My current focus is on
 
