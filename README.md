@@ -20,8 +20,8 @@ My portfolio and other freelance projects, also picking up new practises and too
 ### <img src="https://media.giphy.com/media/iIKrdvt54McJa/giphy.gif" width="30"> My current focus is on
 
 - Typescript
-- Next.js & SEO
-- GraphQL
+- Gatsby
+
 
 ### <img src="https://media.giphy.com/media/l2vStc1Yuw24g0xqKH/giphy.gif" width="30"> I’m looking to collaborate on/with
 
