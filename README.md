@@ -9,7 +9,7 @@ _Welcome to my GitHub! I'm Elyas (with the stress on the Y), a developer from th
 
 ---
 
-![Elyas's Github stats](https://github-readme-stats.vercel.app/api?username=elyasp&show_icons=true&hide_border=true&theme=material-palenight)
+
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on
 
