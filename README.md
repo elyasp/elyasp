@@ -1,25 +1,5 @@
-![](https://github.com/elyasp/elyasp/blob/master/banner.png)
-[![elyaspopal.com](https://img.shields.io/badge/-ELYASPOPAL.COM-3c226b?style=for-the-badge&logo=react&logoColor=white)](http://elyaspopal.com)
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyas_popal)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyaspopal/)
-
-_Welcome to my GitHub! I'm Elyas (with the stress on the Y), a developer from the Netherlands and living in Spain. Being a person of many interests, I enjoy working within all spheres of activity. Through my skills, gained from coding bootcamps such as in Ironhack Lisbon, self-studying, the dev community and professional experience, I am building a fluent sleight-of-hand in both frontend and backend technologies and languages. Because bringing ideas to life as efficient and accurate as possible is really the ultimate goal in life._
-
-**And what could be more effective in achieving that goal than coding?** 🤖
-
----
 
 
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on
-
-My portfolio and other freelance projects, also picking up new practises and tools
-
-### <img src="https://media.giphy.com/media/iIKrdvt54McJa/giphy.gif" width="30"> My current focus is on
-
-
-- Typescript
-- Gatsby
 
 [![elyaspopal.com](https://img.shields.io/badge/-ELYASPOPAL.COM-3c226b?style=flat-square&logo=react&logoColor=white)](http://elyaspopal.com)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/elyas_popal)
